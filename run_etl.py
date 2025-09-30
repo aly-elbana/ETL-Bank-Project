@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 ETL Banks Project Runner
 Simple script to run the ETL pipeline
