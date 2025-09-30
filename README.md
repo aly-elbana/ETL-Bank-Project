@@ -19,14 +19,14 @@ A comprehensive Extract, Transform, Load (ETL) pipeline for banking data extract
 ├── src/
 │   └── banks_project.py      # Main ETL pipeline
 ├── data/
-│   ├── exchange_rate.csv    # Exchange rates data
-│   ├── Largest_banks_data.csv # Output CSV file
+│   ├── exchange_rate.csv    # Exchange rates
+│   ├── Largest_banks_data.csv # Output CSV
 │   └── Banks.db            # SQLite database
-├── config.py               # Configuration settings
-├── requirements.txt        # Python dependencies
-├── .gitignore             # Git ignore rules
-├── code_log.txt          # Execution logs
-└── README.md             # This file
+├── config.py               # Configuration
+├── requirements.txt        # Dependencies
+├── run_etl.py             # Easy runner
+├── README.md              # Documentation
+└── .gitignore             # Git ignore rules
 ```
 
 ## 🛠️ Installation
