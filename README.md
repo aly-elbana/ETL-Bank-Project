@@ -136,18 +136,6 @@ The pipeline includes robust error handling for:
 - beautifulsoup4 >= 4.11.0
 - lxml >= 4.9.0
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🆘 Support
 
 If you encounter any issues or have questions, please:
@@ -156,12 +144,3 @@ If you encounter any issues or have questions, please:
 2. Review the error messages in the console
 3. Ensure all dependencies are installed
 4. Verify the data sources are accessible
-
-## 🔄 Future Enhancements
-
-- [ ] Add more data sources
-- [ ] Implement data quality checks
-- [ ] Add unit tests
-- [ ] Docker containerization
-- [ ] API endpoints for data access
-- [ ] Real-time data updates
